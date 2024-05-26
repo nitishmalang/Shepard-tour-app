@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/nitishmalang/shepherd-tour-app.git
+`git clone https://github.com/nitishmalang/shepherd-tour-app.git`
 
 Navigate to the project directory:
 
