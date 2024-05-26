@@ -35,7 +35,7 @@ Install dependencies:
 Start the development server:
 `npm start`
 
-Open your browser and go to http://localhost:3000 to view the app.
+Open your browser and go to `http://localhost:3000` to view the app.
 Usage
 Click the "Start Tour" button to initiate the guided tour. Follow the instructions in each step of the tour. Use the navigation buttons (Next, Back, Finish) to move between tour steps. Video Demonstration For a video demonstration of the guided tour in action, please watch the following video:
 
