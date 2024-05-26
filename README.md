@@ -33,7 +33,7 @@ Install dependencies:
 `npm install`
 
 Start the development server:
-npm start
+`npm start`
 
 Open your browser and go to http://localhost:3000 to view the app.
 Usage
