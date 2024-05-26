@@ -29,7 +29,8 @@ Navigate to the project directory:
 `cd shepherd-tour-app`
 
 Install dependencies:
-npm install
+
+`npm install`
 
 Start the development server:
 npm start
