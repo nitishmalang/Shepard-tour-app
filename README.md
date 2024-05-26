@@ -26,7 +26,7 @@ Clone the repository:
 
 Navigate to the project directory:
 
-cd shepherd-tour-app
+`cd shepherd-tour-app`
 
 Install dependencies:
 npm install
